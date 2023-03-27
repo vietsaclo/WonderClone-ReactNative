@@ -1,6 +1,7 @@
 # Read Me
 
 ## run project
+  - `node -v` = `v14.20.1`
   - `yarn`
   - `yarn start`
 
